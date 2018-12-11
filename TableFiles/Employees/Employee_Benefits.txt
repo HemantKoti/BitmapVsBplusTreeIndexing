@@ -1,0 +1,5 @@
+3#53969#4.6#Employee Discount#Part Time
+3.2#91163#4.9#Employee Discount#Part Time
+3.5#382270#6.7#Insurance Policy#Full Time
+4#617148#7.8#Insurance Policy#Full Time
+4.3#20106#3.8#Free Transport#Intern
